@@ -1,0 +1,15 @@
+com\yunki\NotificationsApplication.class
+com\yunki\repository\IBootcoinRepository.class
+com\yunki\events\UserCreatedEvent.class
+com\yunki\config\KafkaConsumerConfig.class
+com\yunki\events\Event.class
+com\yunki\events\YunkiCreatedEvent.class
+com\yunki\service\UserEventsService.class
+com\yunki\entity\Bootcoin.class
+com\yunki\events\EventType.class
+com\yunki\entity\Yunki.class
+com\yunki\service\YunkiEventsService.class
+com\yunki\entity\User.class
+com\yunki\events\BootcoinCreatedEvent.class
+com\yunki\repository\IYunkiRepository.class
+com\yunki\service\BootcoinEventsService.class
